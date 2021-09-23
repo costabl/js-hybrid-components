@@ -1,0 +1,11 @@
+name: 'Webform API Handler'
+type: module
+description: "Extends Webform's built it Remote Post handler to enable the creation of custom plugins for pre-processing the request Webform makes to an API endpoint, and for processing and displaying the result of the API request."
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: 'Webform'
+
+# Information added by Drupal.org packaging script on 2021-08-12
+version: '8.x-1.x-dev'
+project: 'webform_api_handler'
+datestamp: 1628806387

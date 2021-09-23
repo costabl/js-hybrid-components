@@ -1,0 +1,14 @@
+name: Site Studio Webform
+type: module
+description: Provides integration between Site Studio and Webform modules with the help of custom element of Site Studio.
+package: Site Studio Webform
+core_version_requirement: ^8.9 || ^9
+dependencies:
+  - cohesion
+  - webform
+  - webform_node
+
+# Information added by Drupal.org packaging script on 2021-09-15
+version: '1.1.1'
+project: 'site_studio_webform'
+datestamp: 1631704259

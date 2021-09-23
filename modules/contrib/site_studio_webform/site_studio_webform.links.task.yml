@@ -1,0 +1,5 @@
+site_studio_webform.admin.webform_creation:
+  title: 'Webform Content Creation'
+  route_name: site_studio_webform.site_studio_webform_batch
+  base_route: entity.webform.collection
+  weight: 100

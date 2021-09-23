@@ -1,0 +1,7 @@
+services:
+  plugin.manager.webform_api_handler.request:
+    class: Drupal\webform_api_handler\Plugin\RequestManager
+    parent: default_plugin_manager
+  plugin.manager.webform_api_handler.response:
+    class: Drupal\webform_api_handler\Plugin\ResponseManager
+    parent: default_plugin_manager

@@ -1,0 +1,7 @@
+site_studio_webform.site_studio_webform_batch:
+  path: '/admin/structure/webform/batch/site_studio_webform'
+  defaults:
+    _form: '\Drupal\site_studio_webform\Form\WebformNodeBatchForm'
+    _title: 'Site studio webform nodes creation'
+  requirements:
+    _permission: 'administer site configuration'
