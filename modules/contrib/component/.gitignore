@@ -1,0 +1,3 @@
+# Ignore OS and project files
+*.DS_Store
+*.idea
